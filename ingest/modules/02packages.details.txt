@@ -4,7 +4,7 @@ Columns:      package name, version, path
 Intended-For: Automated fetch routines, namespace documentation.
 Written-By:   App::opan
 Line-Count:   3
-Last-Updated: Tue Mar  3 11:07:45 2020 GMT
+Last-Updated: Thu Mar  5 10:07:13 2020 GMT
 
 Mojo::File::Role::Ingest           0.01  M/MY/MY/Mojo-File-Role-Ingest-0.01.tar.gz
 Mojo::File::Role::IngestI         undef  M/MY/MY/Mojo-File-Role-Ingest-0.01.tar.gz
