@@ -1,0 +1,9 @@
+File:         02packages.details.txt
+Description:  Package names found in directory $CPAN/authors/id/
+Columns:      package name, version, path
+Intended-For: Automated fetch routines, namespace documentation.
+Written-By:   App::opan
+Line-Count:   1
+Last-Updated: Mon Mar 23 19:38:18 2020 GMT
+
+Hash::MultiValue                   0.08  M/MY/MY/Hash-MultiValue-0.08.tar.gz
